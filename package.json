@@ -1,0 +1,27 @@
+{
+  "name": "website-1.0",
+  "version": "1.0.0",
+  "description": "church website",
+  "main": "index.js",
+  "dependencies": {
+    "grunt-html-build": "^0.7.1"
+  },
+  "devDependencies": {
+    "grunt": "^1.1.0",
+    "grunt-bake": "^1.9.0",
+    "grunt-contrib-watch": "^1.1.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CSIHindustaniChurchTech/website-1.0.git"
+  },
+  "author": "sunil mundari, ayesha mundu, prem anand topno",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CSIHindustaniChurchTech/website-1.0/issues"
+  },
+  "homepage": "https://github.com/CSIHindustaniChurchTech/website-1.0#readme"
+}
